@@ -1,3 +1,6 @@
+* content
+{:toc}
+
 ## Bitcoin Frequency Trading Brain Storming Note
 
 ## HOW TO SHORT TERM TRADING BITCOIN. 
